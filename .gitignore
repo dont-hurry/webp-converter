@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+input-images/*
+output-images/*
+
+!input-images/README.txt
+!output-images/README.txt
